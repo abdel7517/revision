@@ -4,13 +4,14 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Application permettant de revisé une liste assocation mot - traduction, ou date - évènement.
+1- Créé une liste 
+2- Révisé   : -)
 
-A few resources to get you started if this is your first Flutter project:
+Toute amélioration est la bienvenue 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Application allowing to revise a list associating word - translation, or date - event.
+1- Create a list
+2- Revised: -)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Any improvement is welcome
