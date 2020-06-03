@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "1079133377253",
+    "firebase_url": "https://rapide-achat.firebaseio.com",
+    "project_id": "rapide-achat",
+    "storage_bucket": "rapide-achat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079133377253:android:2a41613723177376863a0c",
+        "android_client_info": {
+          "package_name": "com.rapideachat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079133377253-0m2iv695qi164oaakf32osff1a8o32dg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8pPBXN8bdQr7LBKnnEJk7Czs1JtbTTxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079133377253-0m2iv695qi164oaakf32osff1a8o32dg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1079133377253-1suq8m4vbu50sgnfp2chmch1u72rpsn4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rapideachat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079133377253:android:aa80b3b89bef7846863a0c",
+        "android_client_info": {
+          "package_name": "com.revisionApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079133377253-0m2iv695qi164oaakf32osff1a8o32dg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8pPBXN8bdQr7LBKnnEJk7Czs1JtbTTxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079133377253-0m2iv695qi164oaakf32osff1a8o32dg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1079133377253-1suq8m4vbu50sgnfp2chmch1u72rpsn4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rapideachat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
